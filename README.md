@@ -2,7 +2,7 @@
 ## --Website--
 <img src="https://github.com/gashasp/Webscraping-Exchange_Rates_Money/blob/main/webcapture.jpg">
 
-## --Result Webscraping--
+### --Result Webscraping--
 <img src="https://github.com/gashasp/Webscraping-Exchange_Rates_Money/blob/main/Webscraping_Result.jpg">
 
 Projek ini dikembangkan sebagai salah satu capstone project dari Algoritma Academy Data Analytics Specialization. Deliverables yang diharapkan dari projek ini adalah melakukan simple webscrapping untuk mendapatkan informasi. Disini kita akan memanfaatkan flask dashboard sederhana untuk menampilkan hasil scrap dan visualisasi kita.

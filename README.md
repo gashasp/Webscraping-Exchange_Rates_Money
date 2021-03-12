@@ -1,6 +1,7 @@
 # Web-Scrapping using Beautifulsoup
 ## Website
 <img src="https://github.com/gashasp/Webscraping-Exchange_Rates_Money/blob/main/webcapture.jpg">
+
 ## Result
 <img src="https://github.com/gashasp/Webscraping-Exchange_Rates_Money/blob/main/Webscraping_Result.jpg">
 
